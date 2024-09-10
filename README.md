@@ -1,6 +1,6 @@
 # demo-repo
 
-My code description.
+My basic code description.
 
 More instructions to be posted. Stay tuned...
 
